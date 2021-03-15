@@ -1,0 +1,6 @@
+prefix: "§l§b[EconomyPlus]§r§7 "
+money-format: "원"
+
+mymoney.command.name: "내돈"
+mymoney.command.description: "내돈 명령어 입니다."
+mymoney.command.result: "현재 보유한 내돈은 §f%format%§7 입니다."

@@ -1,0 +1,6 @@
+prefix: "§l§b[EconomyPlus]§r§7 "
+money-format: "$"
+
+mymoney.command.name: "mymoney"
+mymoney.command.description: "mymoney command."
+mymoney.command.result: "My Money: §f%format%."
